@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import Image from 'next/image'
 import { NavBar } from '@/components/navbar'
 import { Footer } from '@/components/footer'
 import { SectionHeading } from '@/components/section-heading'
