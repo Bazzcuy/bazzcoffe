@@ -1,7 +1,6 @@
 'use client'
 
 import { useState } from 'react'
-import Image from 'next/image'
 import { Button } from '@/components/ui/button'
 import { NavBar } from '@/components/navbar'
 import { Footer } from '@/components/footer'
